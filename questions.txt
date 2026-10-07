@@ -1,0 +1,34 @@
+Which language is used for system programming?
+A. HTML
+B. C
+C. CSS
+D. SQL
+B
+
+Which symbol is used to end a C statement?
+A. :
+B. ;
+C. ,
+D. .
+B
+
+Which function is the starting point of a C program?
+A. start()
+B. begin()
+C. main()
+D. run()
+C
+
+Which data type stores an integer?
+A. float
+B. char
+C. int
+D. double
+C
+
+Which keyword is used to declare a constant?
+A. constant
+B. const
+C. fixed
+D. final
+B
